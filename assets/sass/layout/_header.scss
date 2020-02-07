@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace;
+}
+
+.contenedor {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.menu {
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    display: flex;
+    align-items: center;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+}

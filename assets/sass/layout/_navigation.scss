@@ -1,0 +1,19 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.nav {
+    display: inline-block;
+    text-align: right;
+}
+.nav ul li{
+    display: inline;
+}
+.nav ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.input-menu {
+    border-radius: 30px;
+}
