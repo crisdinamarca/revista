@@ -264,6 +264,14 @@
     padding: 0px 25px;
     box-sizing: border-box;
   }
+
+  .nav ul li:first-child {
+    display: none;
+  }
+
+  .input-menu {
+    width: 50%;
+  }
 }
 @media (max-width: 767.98px) {
   .sm-d-none {
